@@ -1,0 +1,24 @@
+{
+  "name": "fun-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ButterflyMisty/fun-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ButterflyMisty/fun-sandbox/issues"
+  },
+  "homepage": "https://github.com/ButterflyMisty/fun-sandbox#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
